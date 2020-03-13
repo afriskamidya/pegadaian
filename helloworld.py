@@ -1,2 +1,2 @@
-print "hello world"
-print "testing inter"
+print "hello sayang"
+print "testing irfan"
