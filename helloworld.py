@@ -1,2 +1,4 @@
-print "Congrats"
+print "Selamat Datang"
+print "Tiara Cantik"
+
 
