@@ -1,4 +1,4 @@
-print "Selamat Datang"
-print "Tiara Cantik"
+print "Hellow World"
+print "Septi"
 
 
